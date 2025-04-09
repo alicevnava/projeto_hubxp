@@ -36,13 +36,15 @@ projeto_hubxp
 - Associação de produtos aos pedidos
 - Registro automático de data e cálculo do valor total
 
-## 📷 Telas do Projeto
+## 📷 Demosntrativo do Projeto
 
 ![Tela de Categorias](./projeto_hubxp-master/screenshots/categorias.jpeg)
 ![Tela de Dashboard](./projeto_hubxp-master/screenshots/dashboard.jpeg)
 ![Tela de Pedidos](./projeto_hubxp-master/screenshots/pedidos.jpeg)
 ![Tela de Produtos](./projeto_hubxp-master/screenshots/produtos.jpeg)
 ![Sidebar](./projeto_hubxp-master/screenshots/sidebar.jpeg)
+🎥 Veja a demonstração em vídeo: [Clique aqui para assistir]([https://link-do-video.com](https://youtu.be/HlXXrkT57No))
+
 
 
 🚀 Como Executar
