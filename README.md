@@ -1,13 +1,11 @@
 # ☕ Break Time - Sistema de Cafeteria
 
-Bem-vindo ao **Break Time**, um sistema completo de gerenciamento para cafeterias, desenvolvido como projeto fullstack utilizando as melhores tecnologias modernas.
-
-# 📁 Estrutura do Projeto
+Bem-vindo ao **Break Time**, um sistema completo de gerenciamento para cafeterias, desenvolvido como projeto fullstack 
 projeto_hubxp
 ├── backend/       
-├── frontend/      
-├── screenshots/    
-└── README.md       
+├── frontend/        
+└── README.md 
+      
 ## 🛠️ Tecnologias Utilizadas
 
 - **Frontend**: React, TypeScript
@@ -29,7 +27,7 @@ projeto_hubxp
 ### 📦 Produtos
 - CRUD de produtos
 - Associação de múltiplas categorias a um produto
-- Upload e exibição de imagens dos produtos
+- Exibição de imagens dos produtos
 
 ### 📋 Pedidos
 - CRUD de pedidos
