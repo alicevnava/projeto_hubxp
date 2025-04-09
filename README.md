@@ -2,9 +2,15 @@
 
 Bem-vindo ao **Break Time**, um sistema completo de gerenciamento para cafeterias, desenvolvido como projeto fullstack utilizando as melhores tecnologias modernas.
 
+# 📁 Estrutura do Projeto
+projeto_hubxp
+├── backend/        # API RESTful com NestJS e MongoDB
+├── frontend/       # Interface web com ReactJS
+├── screenshots/    # Demonstrativo das telas
+└── README.md       # Documentação do projeto
 ## 🛠️ Tecnologias Utilizadas
 
-- **Frontend**: React, TypeScript 
+- **Frontend**: React, TypeScript
 - **Backend**: NestJS
 - **Banco de Dados**: MongoDB
 - **Estilo e Design**: CSS customizado com base em paletas do [Coolors](https://coolors.co/), referências visuais do [Pinterest](https://pinterest.com) e imagens do [Unsplash](https://unsplash.com)
@@ -32,15 +38,32 @@ Bem-vindo ao **Break Time**, um sistema completo de gerenciamento para cafeteria
 
 ## 📷 Telas do Projeto
 
-> (Você pode adicionar aqui prints das páginas ou gifs mostrando a navegação)
+![Tela de Categorias](./projeto_hubxp-master/screenshots/categorias.jpeg)
+![Tela de Dashboard](./projeto_hubxp-master/screenshots/dashboard.jepg)
+![Tela de Pedidos](./projeto_hubxp-master/screenshots/pedidos.jpeg)
+![Tela de Produtos](./projeto_hubxp-master/screenshots/produtos.jepg)
+![Sidebar](./projeto_hubxp-master/screenshots/sidebar.jepg)
+
 
 ## 🚀 Como Executar
 
-### Backend
+🔧 Backend
 
 ```bash
 cd backend
 npm install
 npm run start:dev
+O backend estará rodando em: http://localhost:3000 
 
-como  
+🎨 Frontend
+
+```bash
+cd frontend
+npm install
+npm run dev
+O frontend estará rodando em: http://localhost:5173
+
+
+
+
+
