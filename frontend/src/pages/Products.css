@@ -1,0 +1,128 @@
+.products-container {
+  width: 100%;
+  padding: 40px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 30px;
+  background-color: #f5f6fa;
+}
+  
+  .product-form {
+    width: 100%;
+    max-width: 500px;
+    background: #fff;
+    padding: 20px;
+    border-radius: 12px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+  }
+  
+  .product-form input,
+  .product-form textarea,
+  .product-form select {
+    padding: 10px;
+    border-radius: 8px;
+    border: 1px solid #ccc;
+    font-size: 1rem;
+  }
+  
+  .product-form button {
+    padding: 10px;
+    background-color: #c08552;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+  }
+  
+  .product-form button:hover {
+    background-color: #895737;
+  }
+  
+  .preview-img {
+    width: 100px;
+    height: auto;
+    border-radius: 6px;
+    margin-top: 10px;
+  }
+  
+  .product-list {
+    list-style: none;
+    padding: 0;
+    display: grid;
+    grid-template-columns: repeat(5, 1fr); 
+    gap: 20px; 
+  }
+  
+  .product-list li {
+    display: flex;
+    gap: 20px;
+    margin-bottom: 20px;
+    background: #fff;
+    padding: 15px;
+    border-radius: 10px;
+    align-items: flex-start;
+    box-shadow: 0 1px 4px rgba(0,0,0,0.1);
+  }
+  
+  .product-list img {
+    width: 80px;
+    height: 80px;
+    object-fit: cover;
+    border-radius: 8px;
+  }
+  
+  .product-list button {
+    margin-right: 10px;
+    padding: 6px 10px;
+    border: none;
+    border-radius: 6px;
+    background-color: #656d4a;
+    color: white;
+    cursor: pointer;
+  }
+  
+  .product-list button:hover {
+    background-color: #a4ac86;
+  }
+  
+  .product-list .delete-btn {
+    background-color: #812321;
+  }
+  
+  .product-list .delete-btn:hover {
+    background-color: #d65243;
+  }
+
+
+  .checkbox-group {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .checkbox-group label {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    background-color: #fff;
+    padding: 6px 10px;
+    border-radius: 8px;
+    border: 1px solid #ccc;
+    cursor: pointer;
+    transition: background-color 0.2s ease;
+  }
+  
+  .checkbox-group input[type="checkbox"] {
+    accent-color: #c08552;
+  }
+  
+  .checkbox-group label:hover {
+    background-color: #f0f0f0;
+  }
+  
+  
