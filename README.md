@@ -4,10 +4,10 @@ Bem-vindo ao **Break Time**, um sistema completo de gerenciamento para cafeteria
 
 # 📁 Estrutura do Projeto
 projeto_hubxp
-├── backend/        # API RESTful com NestJS e MongoDB
-├── frontend/       # Interface web com ReactJS
-├── screenshots/    # Demonstrativo das telas
-└── README.md       # Documentação do projeto
+├── backend/       
+├── frontend/      
+├── screenshots/    
+└── README.md       
 ## 🛠️ Tecnologias Utilizadas
 
 - **Frontend**: React, TypeScript
