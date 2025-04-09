@@ -36,7 +36,7 @@ Bem-vindo ao **Break Time**, um sistema completo de gerenciamento para cafeteria
 - Registro automático de data e cálculo do valor total
 
 ## 📷 Demosntrativo do Projeto
-Clique aqui para assistir: [https://link-do-video.com](https://youtu.be/HlXXrkT57No
+Clique aqui para assistir: https://link-do-video.com](https://youtu.be/HlXXrkT57No
 
 🚀 Como Executar
 
