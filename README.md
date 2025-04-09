@@ -39,30 +39,33 @@ projeto_hubxp
 ## 📷 Telas do Projeto
 
 ![Tela de Categorias](./projeto_hubxp-master/screenshots/categorias.jpeg)
-![Tela de Dashboard](./projeto_hubxp-master/screenshots/dashboard.jepg)
+![Tela de Dashboard](./projeto_hubxp-master/screenshots/dashboard.jpeg)
 ![Tela de Pedidos](./projeto_hubxp-master/screenshots/pedidos.jpeg)
-![Tela de Produtos](./projeto_hubxp-master/screenshots/produtos.jepg)
-![Sidebar](./projeto_hubxp-master/screenshots/sidebar.jepg)
+![Tela de Produtos](./projeto_hubxp-master/screenshots/produtos.jpeg)
+![Sidebar](./projeto_hubxp-master/screenshots/sidebar.jpeg)
 
 
-## 🚀 Como Executar
+🚀 Como Executar
 
 🔧 Backend
 
-```bash
 cd backend
 npm install
 npm run start:dev
-O backend estará rodando em: http://localhost:3000 
+
+O backend estará rodando em: http://localhost:3000
 
 🎨 Frontend
 
-```bash
 cd frontend
 npm install
 npm run dev
+
 O frontend estará rodando em: http://localhost:5173
 
+## 🙌 Autor
+
+Desenvolvido com 💙 por Alice Vivas Nava: https://www.linkedin.com/in/alice-vivas-nava/ ; https://github.com/alicevnava
 
 
 
