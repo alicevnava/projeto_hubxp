@@ -2,7 +2,7 @@
 
 Bem-vindo ao **Break Time**, um sistema completo de gerenciamento para cafeterias, desenvolvido como projeto fullstack 
 
-# 📁 projeto_hubxp
+## 📁 projeto_hubxp
 ├── backend/       
 ├── frontend/        
 └── README.md 
